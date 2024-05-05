@@ -10,6 +10,8 @@ fun main(){
     println(minute)
 
     print(landing)
+
+
 }
 
     var hour:Int = 10
